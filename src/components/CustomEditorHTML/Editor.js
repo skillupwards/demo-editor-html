@@ -6,7 +6,7 @@ import "codemirror/mode/javascript/javascript";
 import "codemirror/mode/css/css";
 import "codemirror/theme/mdn-like.css";
 import {Controlled as ControlledEditor} from "react-codemirror2";
-import "../Editor/Editor.scss";
+import "./Editor.scss";
 import "codemirror/addon/edit/closetag";
 import "codemirror/addon/edit/closebrackets";
 import "codemirror/theme/cobalt.css";
